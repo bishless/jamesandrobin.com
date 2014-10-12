@@ -1,0 +1,25 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+div.nav {
+  height: 30px;
+}
+
+div.nav ul {
+  list-style: none;
+  text-align: center;
+}
+
+div.nav ul li {
+  font-family: Verdana, Geneva, sans-serif;
+  display: inline;
+  margin-left: 12pt;
+  margin-right: 12pt;
+}
+
+div.nav a {
+  text-decoration: none;
+  color: #cc3333;
+}
