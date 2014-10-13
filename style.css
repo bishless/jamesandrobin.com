@@ -3,6 +3,8 @@ h1, h2, h3, h4, h5, h6, p, div, span, li {
 }
 
 div.nav {
+  background-color: white;
+  opacity: 0.75;
 }
 
 div.nav ul {
